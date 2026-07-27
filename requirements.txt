@@ -1,0 +1,6 @@
+geopandas
+shapely
+matplotlib
+sqlalchemy
+psycopg2-binary
+geoalchemy2
