@@ -1,4 +1,4 @@
-# UP_nearest_facility_project
+
 # UP Nearest Facility Analysis
 
 A GeoPandas + PostGIS project analyzing which districts in Uttar Pradesh fall within a defined distance of a chosen facility location (e.g., Lucknow), using spatial buffering and distance analysis.
@@ -29,7 +29,7 @@ Districts within 100km of Lucknow: Unnao, Barabanki, Sitapur, Raebareli, Kanpur,
 
 ## How to Run
 1. Install dependencies: `geopandas`, `shapely`, `matplotlib`, `sqlalchemy`, `psycopg2`, `geoalchemy2`
-2. Open `notebooks/up_nearest_facility_project.ipynb`
+2. Open up_nearest_facility_project.ipynb`
 3. Update the PostGIS connection string with your own credentials
 4. Run all cells
 
