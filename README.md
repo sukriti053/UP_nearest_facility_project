@@ -23,7 +23,7 @@ Given a facility located in a specific district, identify which other districts 
 - SQLAlchemy
 
 ## Results
-![Buffer Map](images/buffer_map.png)
+![Buffer Map](Buffer_Map.PNG)
 
 Districts within 100km of Lucknow: Unnao, Barabanki, Sitapur, Raebareli, Kanpur, Hardoi, Amethi (Lucknow itself included).
 
